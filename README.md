@@ -3,15 +3,10 @@ Simple console program to chat locally with llama-2-7b-chat
 
 # Install
 Create subfolder "/model/" and download correct mmodel-file from: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main
+
 Install depedencies via pip.
 
 Author          : Kristian Virtanen, krisu.virtanen@gmail.com
-
-Usage:          : Open file "readme.txt" and read instructions.
-                : Install nodejs, openai, readline and fs modules.
-                : Open file "context.txt" and write instructions and context for the AI.
-                : Open file "AiConsoleChat.cjs" and change MyApiKey to your own API key.
-                : run from console AiConsoleChat.bat
 
 Commands        : ---exit                   : exit application
                 : ---history                : show short history
